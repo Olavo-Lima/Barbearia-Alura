@@ -1,0 +1,1 @@
+Este Projeto foi feito no curso de HTML5 e CSS3 (não encontrei o encontrei para linka-lo aqui), na Alura, juntamente com o professor Pedro Martins (https://www.instagram.com/opedromarins/). Um ótimo professor diga-se de passagem.
